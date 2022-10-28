@@ -1,1 +1,1 @@
-print("solutions")
+print("solution")
